@@ -1,121 +1,49 @@
-# Jonathan Morera Apaza
-**Desarrollador Web Junior FullStack | Estudiante de 2º DAW 
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
-📍 Las Palmas de Gran Canaria, España  
-🎓 Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Web  
-💻 Abierto a prácticas y oportunidades junior  
+###
 
----
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-## 🚀 Perfil profesional
-Soy estudiante de segundo curso del Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Web (DAW), con formación en desarrollo backend y frontend, y experiencia en proyectos académicos y colaborativos.
+###
 
-He trabajado con tecnologías como Java y Spring Boot para el desarrollo de APIs y aplicaciones backend, así como con JavaScript y React para la creación de interfaces web modernas. Me interesa especialmente participar en proyectos reales donde pueda seguir mejorando mis habilidades técnicas, aplicar buenas prácticas y aprender dentro de un entorno profesional.
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
----
+###
 
-## 🎯 Objetivo profesional
-Acceder a un puesto de **Desarrollador Web Junior** o **Desarrollador Backend Junior**, preferiblemente en modalidad de prácticas o primer empleo, donde pueda aportar mis conocimientos y continuar mi desarrollo profesional.
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
 
----
+###
 
-## 🧠 Competencias técnicas
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
 
-### 🔹 Desarrollo Backend
-- **Java** — Nivel intermedio  
-- **Spring Boot** — Nivel intermedio  
-- **Node.js con Express** — Nivel intermedio  
-- **Sequelize (ORM)** — Nivel básico  
-📌 Evidencia: proyectos académicos y proyecto colaborativo *CanAccesible*
+###
 
-### 🔹 Desarrollo Frontend
-- **HTML5 / CSS3** — Nivel intermedio  
-- **JavaScript** — Nivel intermedio  
-- **React** — Nivel intermedio  
-- Librerías: Leaflet, Axios, Material UI, i18n  
+<br clear="both">
 
-### 🔹 Bases de datos
-- **Oracle Database** — Nivel intermedio  
-- **MySQL** — Nivel básico  
-- **PostgreSQL** — Nivel básico  
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
-**Conocimientos aplicados:**
-- Diseño de bases de datos relacionales (modelo entidad–relación)  
-- Creación de tablas, claves primarias y foráneas  
-- Escritura de consultas SQL para inserción, consulta y actualización de datos  
-- Integración de bases de datos en aplicaciones backend  
-
-📌 **Evidencia:** proyectos académicos DAW y uso de MySQL en el proyecto colaborativo *CanAccesible*
-
-
-### 🔹 Otras herramientas y tecnologías
-- **Git / GitHub**  
-- **Docker**  
-- **Tailwind CSS**  
-- **SonarQube**  
-- **Python** — Nivel básico  
-- **Testing:** Vitest y Jest  
-
----
-
-## 🤝 Competencias transversales
-- Trabajo en equipo en proyectos colaborativos  
-- Resolución de problemas técnicos  
-- Aprendizaje continuo y adaptación  
-- Comunicación en entornos de desarrollo  
-- Responsabilidad en la entrega de tareas  
-
-📌 Demostrado en proyectos grupales y trabajo colaborativo en *CanAccesible*
-
----
-
-## 📦 Proyectos destacados
-
-### 🔹 CanAccesible — Plataforma web de accesibilidad
-**Rol:** Desarrollador Web (equipo)  
-**Tecnologías:** JavaScript, React, Node.js, Express, MySQL
-
-**Contexto:**  
-Proyecto colaborativo enfocado en la accesibilidad, cuyo objetivo es facilitar la localización de espacios y servicios accesibles.
-
-**Aportaciones:**
-- Desarrollo de funcionalidades frontend  
-- Colaboración en la lógica backend  
-- Trabajo en equipo usando control de versiones  
-- Aplicación de buenas prácticas de accesibilidad web y SEO
-
-👉 Web: https://canaccesible.es/ 
-
----
-
-## 🎓 Formación académica
-**Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Web (DAW)**  
-📅 Septiembre 2024 – Actualidad  
-🏫 IES El Rincón  
-
-Contenidos relevantes:
-- Desarrollo backend y APIs REST con SpringBoot y Express 
-- Desarrollo frontend con JavaScript y React  
-- Bases de datos relacionales  
-
----
-
-## 🌍 Idiomas
-- **Español** — Nativo  
-- **Inglés** — Nivel B1  
-📜 Certificación: Escuela Oficial de Idiomas (EOI)
-
----
-
-## 📄 Currículum Vitae
-👉 **[Descargar CV en PDF]** (<>)
-
----
-
-## 📬 Contacto
-- 📧 Email: jonathanmorerapaza@gmail.com
-- Linkedin: https://www.linkedin.com/in/jonathan-morera-apaza-856238315/
-
----
-
-*Última actualización: 2026*
+###
