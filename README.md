@@ -1,16 +1,128 @@
-## Hi there 👋
+# Jonathan Morera Apaza
+**Desarrollador Web Junior | Estudiante de 2º DAW | Backend y Full Stack**
 
+📍 Las Palmas de Gran Canaria, España  
+🎓 Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Web  
+💻 Abierto a prácticas y oportunidades junior  
 
-**jonathanelruso/jonathanelruso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 Perfil profesional
+Soy estudiante de segundo curso del Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Web (DAW), con formación en desarrollo backend y frontend, y experiencia en proyectos académicos y colaborativos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+He trabajado con tecnologías como Java y Spring Boot para el desarrollo de APIs y aplicaciones backend, así como con JavaScript y React para la creación de interfaces web modernas. Me interesa especialmente participar en proyectos reales donde pueda seguir mejorando mis habilidades técnicas, aplicar buenas prácticas y aprender dentro de un entorno profesional.
 
+---
+
+## 🎯 Objetivo profesional
+Acceder a un puesto de **Desarrollador Web Junior** o **Desarrollador Backend Junior**, preferiblemente en modalidad de prácticas o primer empleo, donde pueda aportar mis conocimientos y continuar mi desarrollo profesional.
+
+---
+
+## 🧠 Competencias técnicas
+
+### 🔹 Desarrollo Backend
+- **Java** — Nivel intermedio  
+- **Spring Boot** — Nivel intermedio  
+- **Node.js con Express** — Nivel intermedio  
+- **Sequelize (ORM)** — Nivel básico  
+📌 Evidencia: proyectos académicos y proyecto colaborativo *CanAccesible*
+
+### 🔹 Desarrollo Frontend
+- **HTML5 / CSS3** — Nivel intermedio  
+- **JavaScript** — Nivel intermedio  
+- **React** — Nivel intermedio  
+- Librerías: Leaflet, Axios, Material UI, i18n  
+📌 Evidencia: interfaces web y SPA desarrolladas en proyectos reales
+
+### 🔹 Bases de datos
+- **Oracle Database** — Nivel intermedio  
+- **MySQL** — Nivel intermedio  
+- **PostgreSQL** — Nivel intermedio  
+📌 Evidencia: modelado relacional y consultas SQL en proyectos DAW
+
+### 🔹 Otras herramientas y tecnologías
+- **Git / GitHub**  
+- **Docker**  
+- **Tailwind CSS**  
+- **SonarQube**  
+- **Python** — Nivel básico  
+- **Testing:** Vitest y Jest  
+
+---
+
+## 🤝 Competencias transversales
+- Trabajo en equipo en proyectos colaborativos  
+- Resolución de problemas técnicos  
+- Aprendizaje continuo y adaptación  
+- Comunicación en entornos de desarrollo  
+- Responsabilidad en la entrega de tareas  
+
+📌 Demostrado en proyectos grupales y trabajo colaborativo en *CanAccesible*
+
+---
+
+## 📦 Proyectos destacados
+
+### 🔹 CanAccesible — Plataforma web de accesibilidad
+**Rol:** Desarrollador Web (equipo)  
+**Tecnologías:** JavaScript, React, Node.js, Express, bases de datos relacionales  
+
+**Contexto:**  
+Proyecto colaborativo enfocado en la accesibilidad, cuyo objetivo es facilitar la localización de espacios y servicios accesibles.
+
+**Aportaciones:**
+- Desarrollo de funcionalidades frontend  
+- Colaboración en la lógica backend  
+- Trabajo en equipo usando control de versiones  
+- Aplicación de buenas prácticas de accesibilidad web  
+
+👉 Web: https://canaccesible.es/home  
+
+---
+
+### 🔹 Proyecto académico CRUD
+**Rol:** Desarrollador Full Stack  
+**Tecnologías:** Java, Spring Boot, HTML, CSS, JavaScript, Oracle  
+
+- Desarrollo de una aplicación web con operaciones CRUD  
+- Implementación de persistencia de datos y validaciones  
+- Control de errores y pruebas básicas  
+
+👉 Repositorio: *pendiente de publicar*
+
+---
+
+## 🎓 Formación académica
+**Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Web (DAW)**  
+📅 Septiembre 2024 – Actualidad  
+🏫 IES El Rincón  
+
+Contenidos relevantes:
+- Desarrollo backend con Java y Spring Boot  
+- Desarrollo frontend con JavaScript y React  
+- Bases de datos relacionales  
+- Arquitectura de aplicaciones web
+
+---
+
+## 🌍 Idiomas
+- **Español** — Nativo  
+- **Inglés** — Nivel B1  
+📜 Certificación: Escuela Oficial de Idiomas (EOI)
+
+---
+
+## 📄 Currículum Vitae
+👉 **[Descargar CV en PDF]** *(enlace a añadir)*
+
+---
+
+## 📬 Contacto
+- 📧 Email: jonathanmorerapaza@gmail.com  
+- 📍 Ubicación: Las Palmas de Gran Canaria  
+- 🧠 GitHub: https://github.com/tu-usuario  
+
+---
+
+*Última actualización: 2026*
