@@ -1,5 +1,5 @@
 # Jonathan Morera Apaza
-**Desarrollador Web Junior | Estudiante de 2º DAW | Backend y Full Stack**
+**Desarrollador Web Junior FullStack | Estudiante de 2º DAW 
 
 📍 Las Palmas de Gran Canaria, España  
 🎓 Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Web  
@@ -33,13 +33,20 @@ Acceder a un puesto de **Desarrollador Web Junior** o **Desarrollador Backend Ju
 - **JavaScript** — Nivel intermedio  
 - **React** — Nivel intermedio  
 - Librerías: Leaflet, Axios, Material UI, i18n  
-📌 Evidencia: interfaces web y SPA desarrolladas en proyectos reales
 
 ### 🔹 Bases de datos
 - **Oracle Database** — Nivel intermedio  
-- **MySQL** — Nivel intermedio  
-- **PostgreSQL** — Nivel intermedio  
-📌 Evidencia: modelado relacional y consultas SQL en proyectos DAW
+- **MySQL** — Nivel básico  
+- **PostgreSQL** — Nivel básico  
+
+**Conocimientos aplicados:**
+- Diseño de bases de datos relacionales (modelo entidad–relación)  
+- Creación de tablas, claves primarias y foráneas  
+- Escritura de consultas SQL para inserción, consulta y actualización de datos  
+- Integración de bases de datos en aplicaciones backend  
+
+📌 **Evidencia:** proyectos académicos DAW y uso de MySQL en el proyecto colaborativo *CanAccesible*
+
 
 ### 🔹 Otras herramientas y tecnologías
 - **Git / GitHub**  
@@ -66,7 +73,7 @@ Acceder a un puesto de **Desarrollador Web Junior** o **Desarrollador Backend Ju
 
 ### 🔹 CanAccesible — Plataforma web de accesibilidad
 **Rol:** Desarrollador Web (equipo)  
-**Tecnologías:** JavaScript, React, Node.js, Express, bases de datos relacionales  
+**Tecnologías:** JavaScript, React, Node.js, Express, MySQL
 
 **Contexto:**  
 Proyecto colaborativo enfocado en la accesibilidad, cuyo objetivo es facilitar la localización de espacios y servicios accesibles.
@@ -75,21 +82,9 @@ Proyecto colaborativo enfocado en la accesibilidad, cuyo objetivo es facilitar l
 - Desarrollo de funcionalidades frontend  
 - Colaboración en la lógica backend  
 - Trabajo en equipo usando control de versiones  
-- Aplicación de buenas prácticas de accesibilidad web  
+- Aplicación de buenas prácticas de accesibilidad web y SEO
 
-👉 Web: https://canaccesible.es/home  
-
----
-
-### 🔹 Proyecto académico CRUD
-**Rol:** Desarrollador Full Stack  
-**Tecnologías:** Java, Spring Boot, HTML, CSS, JavaScript, Oracle  
-
-- Desarrollo de una aplicación web con operaciones CRUD  
-- Implementación de persistencia de datos y validaciones  
-- Control de errores y pruebas básicas  
-
-👉 Repositorio: *pendiente de publicar*
+👉 Web: https://canaccesible.es/ 
 
 ---
 
@@ -99,10 +94,9 @@ Proyecto colaborativo enfocado en la accesibilidad, cuyo objetivo es facilitar l
 🏫 IES El Rincón  
 
 Contenidos relevantes:
-- Desarrollo backend con Java y Spring Boot  
+- Desarrollo backend y APIs REST con SpringBoot y Express 
 - Desarrollo frontend con JavaScript y React  
 - Bases de datos relacionales  
-- Arquitectura de aplicaciones web
 
 ---
 
@@ -114,14 +108,13 @@ Contenidos relevantes:
 ---
 
 ## 📄 Currículum Vitae
-👉 **[Descargar CV en PDF]** *(enlace a añadir)*
+👉 **[Descargar CV en PDF]** (<>)
 
 ---
 
 ## 📬 Contacto
-- 📧 Email: jonathanmorerapaza@gmail.com  
-- 📍 Ubicación: Las Palmas de Gran Canaria  
-- 🧠 GitHub: https://github.com/tu-usuario  
+- 📧 Email: jonathanmorerapaza@gmail.com
+- Linkedin: https://www.linkedin.com/in/jonathan-morera-apaza-856238315/
 
 ---
 
