@@ -1,109 +1,63 @@
-# Jonathan Morera Apaza
-**Desarrollador Web Junior FullStack | Estudiante de 2º DAW**
+<div class="max-w-4xl mx-auto p-6 bg-gray-900 text-white rounded-2xl shadow-xl">
 
-📍 Las Palmas de Gran Canaria, España  
-🎓 Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Web  
-💻 Abierto a prácticas y oportunidades junior  
+  <h1 class="text-4xl font-bold text-center mb-4">Jonathan Morera Apaza</h1>
+  <p class="text-center text-lg mb-6">
+    Desarrollador Web Junior FullStack | Estudiante de 2º DAW<br>
+    Las Palmas de Gran Canaria, España
+  </p>
 
----
-
-## 🚀 Perfil profesional
-Soy estudiante de segundo curso del Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Web (DAW), con formación en desarrollo backend y frontend, y experiencia en proyectos académicos y colaborativos.
-
-He trabajado con tecnologías como Java y Spring Boot para el desarrollo de APIs y aplicaciones backend, así como con JavaScript y React para la creación de interfaces web modernas. Me interesa especialmente participar en proyectos reales donde pueda seguir mejorando mis habilidades técnicas, aplicar buenas prácticas y aprender dentro de un entorno profesional.
-
----
-
-## 🧩 Herramientas y Badges 🔥
-
-### Tecnologías principales
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-### GitHub Stats
-![Jonathan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jonathanmorerapaza&show_icons=true&theme=radical)
-
-### Contador de visitas
-![Visitor Count](https://img.shields.io/badge/dynamic/json?label=Visitas&color=blue&query=count&url=https://api.countapi.xyz/hit/jonathanmorerapaza/github-readme-visits)
+  <!-- Tecnologías -->
+  <!-- Tecnologías principales -->
+<div class="flex flex-wrap justify-center gap-2 mb-6">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle">
+</div>
 
 
----
+  <!-- Perfil -->
+  <div class="mb-6">
+    <h2 class="text-2xl font-semibold mb-2">🚀 Perfil Profesional</h2>
+    <p>
+      Estudiante de segundo curso de DAW, con experiencia en proyectos académicos y colaborativos. Trabajo con Java, Spring Boot, Node.js, React y bases de datos relacionales. Apasionado por buenas prácticas, accesibilidad y aprender en proyectos reales.
+    </p>
+  </div>
 
-## 🎯 Objetivo profesional
-Acceder a un puesto de **Desarrollador Web Junior** o **Desarrollador Backend Junior**, preferiblemente en modalidad de prácticas o primer empleo, donde pueda aportar mis conocimientos y continuar mi desarrollo profesional.
+  <!-- Objetivo -->
+  <div class="mb-6">
+    <h2 class="text-2xl font-semibold mb-2">🎯 Objetivo Profesional</h2>
+    <p>
+      Acceder a un puesto de Desarrollador Web Junior o Backend Junior, preferiblemente en prácticas o primer empleo, aportando mis conocimientos y desarrollándome profesionalmente.
+    </p>
+  </div>
 
----
+  <!-- Proyectos destacados -->
+  <div class="mb-6">
+    <h2 class="text-2xl font-semibold mb-2">📦 Proyectos Destacados</h2>
+    <div class="bg-gray-800 p-4 rounded-xl shadow-md mb-4">
+      <h3 class="text-xl font-bold mb-1">CanAccesible — Plataforma web de accesibilidad</h3>
+      <p><b>Rol:</b> Desarrollador Web (equipo)</p>
+      <p><b>Tecnologías:</b> JavaScript, React, Node.js, Express, MySQL</p>
+      <p>Proyecto colaborativo enfocado en accesibilidad, facilitando la localización de espacios y servicios accesibles.</p>
+      <p><b>Aportaciones:</b> Desarrollo frontend y backend, control de versiones, buenas prácticas de accesibilidad y SEO.</p>
+      <p>🌐 <a href="https://canaccesible.es/" class="text-blue-400 underline">canaccesible.es</a></p>
+    </div>
+  </div>
+  
+  <!-- Contacto -->
+  <div class="mt-6 text-center">
+    <h2 class="text-2xl font-semibold mb-2">📬 Contacto</h2>
+    <p>📧 jonathanmorerapaza@gmail.com</p>
+    <p>LinkedIn: <a href="https://www.linkedin.com/in/jonathan-morera-apaza-856238315/" class="text-blue-400 underline">Perfil LinkedIn</a></p>
+  </div>
 
-## 🧠 Competencias técnicas
-
-### 🔹 Desarrollo Backend
-- **Java** — Nivel intermedio  
-- **Spring Boot** — Nivel intermedio  
-- **Node.js con Express** — Nivel intermedio  
-- **Sequelize (ORM)** — Nivel básico  
-
-### 🔹 Desarrollo Frontend
-- **HTML5 / CSS3 / JS / React** — Nivel intermedio  
-- Librerías: Leaflet, Axios, Material UI, i18n  
-
-### 🔹 Bases de datos
-- **Oracle, MySQL, PostgreSQL** — Nivel intermedio  
-
-### 🔹 Otras herramientas
-- Git / GitHub  
-- Docker  
-- Tailwind CSS  
-- SonarQube  
-- Python — Nivel básico  
-- Testing: Vitest, Jest  
-
----
-
-## 📦 Proyectos destacados
-### 🔹 CanAccesible — Plataforma web de accesibilidad
-**Rol:** Desarrollador Web (equipo)  
-**Tecnologías:** JavaScript, React, Node.js, Express, MySQL
-
-**Contexto:** Proyecto colaborativo enfocado en accesibilidad, facilitando la localización de espacios y servicios accesibles.
-
-**Aportaciones:**
-- Desarrollo frontend y backend  
-- Trabajo en equipo con control de versiones  
-- Aplicación de buenas prácticas de accesibilidad y SEO
-
-👉 Web: https://canaccesible.es/ 
-
----
-
-## 🎓 Formación académica
-**Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Web (DAW)**  
-📅 Septiembre 2024 – Actualidad  
-🏫 IES El Rincón  
-
----
-
-## 🌍 Idiomas
-- Español — Nativo  
-- Inglés — Nivel B1 (EOI)
-
----
-
-## 📄 Currículum Vitae
-👉 **[Descargar CV en PDF](<>)**
-
----
-
-## 📬 Contacto
-- 📧 jonathanmorerapaza@gmail.com
-- LinkedIn: https://www.linkedin.com/in/jonathan-morera-apaza-856238315/
-
----
-
-*Última actualización: 2026*
+  <p class="text-center mt-6 text-gray-400">Última actualización: 2026</p>
+</div>
