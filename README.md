@@ -1,102 +1,162 @@
-<div class="max-w-4xl mx-auto p-6 bg-gray-900 text-white rounded-2xl shadow-xl">
+<h1 align="center">Jonathan Morera Apaza</h1>
 
-  <h1 class="text-4xl font-bold text-center mb-4">Jonathan Morera Apaza</h1>
-  <p class="text-center text-lg mb-6">
-    Desarrollador Web Junior FullStack | Estudiante de 2º DAW<br>
-    Las Palmas de Gran Canaria, España
-  </p>
+<p align="center">
+  Desarrollador Web Junior Full Stack<br>
+  Estudiante de 2º DAW · Las Palmas de Gran Canaria, España
+</p>
 
-<!-- Tecnologías -->
+<!-- Bloques de valor -->
+<p align="center">
+  <strong>Tecnologías clave:</strong> Java, Spring Boot, React, Node.js<br>
+  <strong>Fortalezas:</strong> Trabajo en equipo, resolución de problemas, aprendizaje rápido<br>
+  <strong>Entorno deseado:</strong> Remoto / híbrido, prácticas o primer empleo
+</p>
 
-<!-- Backend -->
-<h3 class="text-xl font-semibold mb-3">Backend</h3>
-<div class="flex flex-wrap justify-center gap-2 mb-6">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
-</div>
+<p align="center">
+  <a href="#contacto" style="padding: 10px 20px; background-color:#4CAF50; color:white; text-decoration:none; border-radius:5px;">Contactar</a>
+  <a href="JonathanMoreraCV.pdf" style="padding: 10px 20px; background-color:#2196F3; color:white; text-decoration:none; border-radius:5px;">Descargar CV</a>
+</p>
 
-<!-- Frontend -->
-<h3 class="text-xl font-semibold mb-3">Frontend</h3>
-<div class="flex flex-wrap justify-center gap-2 mb-6">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logoColor=white" alt="Zustand">
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
-</div>
+<hr>
 
-<!-- Bases de Datos -->
-<h3 class="text-xl font-semibold mb-3">Bases de Datos</h3>
-<div class="flex flex-wrap justify-center gap-2 mb-6">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle">
-</div>
+<h2>🚀 Perfil Profesional</h2>
+<p>
+  Estudiante de segundo curso de Desarrollo de Aplicaciones Web (DAW), con experiencia en proyectos académicos
+  y colaborativos. Desarrollo aplicaciones web completas utilizando Java y Spring Boot en backend y React en frontend.
+  Enfocado en buenas prácticas, testing básico y control de versiones.
+</p>
 
-<!-- Testing -->
-<h3 class="text-xl font-semibold mb-3">Testing</h3>
-<div class="flex flex-wrap justify-center gap-2 mb-6">
-  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest">
-  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" alt="Vitest">
-</div>
+<ul>
+  <li><strong>Valores profesionales:</strong> Trabajo en equipo (demostrado en CanAccesible), resolución de problemas, aprendizaje continuo.</li>
+  <li><strong>Idiomas:</strong> Español (nativo), Inglés B1 (certificado EOI).</li>
+  <li><strong>Debilidades en mejora:</strong> Paciencia y coordinación en equipos grandes; trabajando para mejorar.</li>
+</ul>
 
-<!-- Calidad, DevOps & Herramientas -->
-<h3 class="text-xl font-semibold mb-3">Calidad, DevOps & Herramientas</h3>
-<div class="flex flex-wrap justify-center gap-2 mb-6">
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
-  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SonarQube">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white" alt="DBeaver">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
-  <img src="https://img.shields.io/badge/Bruno-2E2E2E?style=for-the-badge&logo=bruno" alt="Bruno API">
-</div>
+<h2>🎯 Objetivo Profesional</h2>
+<p>
+  Incorporarme como Desarrollador Web Junior o Backend Junior, en prácticas o primer empleo,
+  para adquirir experiencia real y seguir creciendo profesionalmente.
+</p>
 
+<hr>
 
+<h2>🛠️ Habilidades Técnicas</h2>
 
+<h3>🧠 Backend</h3>
+<ul>
+  <li>Java + Spring Boot — Intermedio (proyectos académicos: Sistema de Gestión de Inventario)</li>
+  <li>Node.js + Express — Intermedio (CanAccesible)</li>
+  <li>Sequelize ORM — Intermedio (CanAccesible)</li>
+  <li>Python básico — Aprendizaje académico</li>
+</ul>
 
+<h3>🎨 Frontend</h3>
+<ul>
+  <li>HTML5, CSS3, JavaScript — Intermedio</li>
+  <li>React + librerías (Leaflet, Motion, Axios, Material UI, I18n) — Proyectos académicos</li>
+  <li>TailwindCSS — JeredAirlines, Sistema de Gestión de Inventario</li>
+</ul>
 
+<h3>🗄️ Bases de Datos</h3>
+<ul>
+  <li>Oracle, MySQL, PostgreSQL — Intermedio</li>
+  <li>SQL — Consultas, joins y CRUD en proyectos académicos</li>
+</ul>
 
-  <!-- Perfil -->
-  <div class="mb-6">
-    <h2 class="text-2xl font-semibold mb-2">🚀 Perfil Profesional</h2>
-    <p>
-      Estudiante de segundo curso de DAW, con experiencia en proyectos académicos y colaborativos. Trabajo con Java, Spring Boot, Node.js, React y bases de datos relacionales. Apasionado por buenas prácticas, accesibilidad y aprender en proyectos reales.
-    </p>
-  </div>
+<h3>⚙️ Herramientas y DevOps</h3>
+<ul>
+  <li>Git/GitHub, Docker, SonarQube, Postman — Uso en proyectos colaborativos</li>
+  <li>Testing: Vitest, Jest — pruebas unitarias básicas</li>
+</ul>
 
-  <!-- Objetivo -->
-  <div class="mb-6">
-    <h2 class="text-2xl font-semibold mb-2">🎯 Objetivo Profesional</h2>
-    <p>
-      Acceder a un puesto de Desarrollador Web Junior o Backend Junior, preferiblemente en prácticas o primer empleo, aportando mis conocimientos y desarrollándome profesionalmente.
-    </p>
-  </div>
+<h3>💡 Soft Skills</h3>
+<ul>
+  <li>Trabajo en equipo — Coordinación en CanAccesible y JeredAirlines</li>
+  <li>Resolución de problemas — Debugging en Sistema de Gestión de Inventario</li>
+  <li>Responsabilidad y puntualidad — Entrega de proyectos académicos a tiempo</li>
+  <li>Aprendizaje continuo — Adaptación a nuevas tecnologías y librerías</li>
+</ul>
 
-  <!-- Proyectos destacados -->
-  <div class="mb-6">
-    <h2 class="text-2xl font-semibold mb-2">📦 Proyectos Destacados</h2>
-    <div class="bg-gray-800 p-4 rounded-xl shadow-md mb-4">
-      <h3 class="text-xl font-bold mb-1">CanAccesible — Plataforma web de accesibilidad</h3>
-      <p><b>Rol:</b> Desarrollador Web (equipo)</p>
-      <p><b>Tecnologías:</b> JavaScript, React, Node.js, Express, MySQL</p>
-      <p>Proyecto colaborativo enfocado en accesibilidad, facilitando la localización de espacios y servicios accesibles.</p>
-      <p><b>Aportaciones:</b> Desarrollo frontend y backend, control de versiones, buenas prácticas de accesibilidad y SEO.</p>
-      <p>🌐 <a href="https://canaccesible.es/" class="text-blue-400 underline">canaccesible.es</a></p>
-    </div>
-  </div>
-  
-  <!-- Contacto -->
-  <div class="mt-6 text-center">
-    <h2 class="text-2xl font-semibold mb-2">📬 Contacto</h2>
-    <p>📧 jonathanmorerapaza@gmail.com</p>
-    <p>Linkedin: <a href="https://www.linkedin.com/in/jonathan-morera-apaza-856238315/" class="text-blue-400 underline">Perfil Linkedin</a></p>
-  </div>
+<h3>🚀 Plan de Mejora</h3>
+<ul>
+  <li>Testing avanzado — Objetivo: Proyecto final DAW, junio 2026</li>
+  <li>Optimización backend con Spring Boot y patrones de diseño — Julio 2026</li>
+  <li>Inglés B2 — Objetivo diciembre 2026</li>
+</ul>
 
-  <p class="text-center mt-6 text-gray-400">Última actualización: 2026</p>
-</div>
+<hr>
+
+<h2>📦 Proyectos Destacados</h2>
+
+<ul>
+  <li>
+    <b>JeredAirlines</b> — Simulador de reserva de vuelos<br>
+    <i>React · TypeScript · TailwindCSS</i>
+    <ul>
+      <li><strong>Rol:</strong> Frontend & Backend</li>
+      <li><strong>Contexto:</strong> Proyecto académico para simular reserva de vuelos.</li>
+      <li><strong>Objetivo y alcance:</strong> Gestión de usuarios y reservas; no incluye pagos reales.</li>
+      <li><strong>Arquitectura:</strong> SPA con integración con backend RESTful</li>
+      <li><strong>Funcionalidades clave:</strong> Registro/login, búsqueda de vuelos, reserva y cancelación.</li>
+      <li><strong>Contribución:</strong> Desarrollo frontend, integración con backend, pruebas básicas</li>
+      <li><strong>Evidencias:</strong> <a href="https://entrega-2-react--jeredairlines.web.app/inicio">Demo</a></li>
+      <li><strong>Aprendizaje:</strong> Mejora de React + TypeScript y gestión de estado con Zustand</li>
+    </ul>
+  </li>
+  <br>
+  <li>
+    <b>Sistema de Gestión de Inventario</b> — Demo Full Stack<br>
+    <i>React · Java · Spring Boot</i>
+    <ul>
+      <li><strong>Rol:</strong> Full Stack</li>
+      <li><strong>Contexto:</strong> Proyecto académico para gestionar inventario y stock de productos.</li>
+      <li><strong>Objetivo y alcance:</strong> CRUD completo de productos, usuarios y almacenes.</li>
+      <li><strong>Arquitectura:</strong> Frontend React + Backend Spring Boot con API REST</li>
+      <li><strong>Funcionalidades clave:</strong> Gestión de inventario, búsqueda y filtrado de productos.</li>
+      <li><strong>Contribución:</strong> Desarrollo backend y pruebas unitarias básicas</li>
+      <li><strong>Evidencias:</strong> <a href="https://demo-react-6pld-75w8amc4n-jonathanelrusos-projects.vercel.app/home">Demo</a></li>
+      <li><strong>Aprendizaje:</strong> Mejora en Spring Boot, integración con frontend y control de versiones</li>
+    </ul>
+  </li>
+  <br>
+  <li>
+    <b>CanAccesible</b> — Plataforma web de accesibilidad<br>
+    <i>React · Node.js · Express · MySQL</i>
+    <ul>
+      <li><strong>Rol:</strong> Frontend & Backend</li>
+      <li><strong>Contexto:</strong> Plataforma para localizar espacios y servicios accesibles.</li>
+      <li><strong>Objetivo y alcance:</strong> Facilitar localización de servicios accesibles; no incluye pagos.</li>
+      <li><strong>Arquitectura:</strong> SPA con backend RESTful</li>
+      <li><strong>Funcionalidades clave:</strong> Búsqueda de servicios, filtrado, mapa interactivo</li>
+      <li><strong>Contribución:</strong> Desarrollo frontend y backend, integración con base de datos</li>
+      <li><strong>Evidencias:</strong> <a href="https://canaccesible.es/">canaccesible.es</a></li>
+      <li><strong>Aprendizaje:</strong> Mejora de React y Node.js, buenas prácticas en accesibilidad, trabajo en equipo</li>
+    </ul>
+  </li>
+</ul>
+
+<hr>
+
+<h2>🎓 Formación y Certificaciones</h2>
+<ul>
+  <li><strong>DAW (Desarrollo de Aplicaciones Web)</strong> — 2º curso, Las Palmas de Gran Canaria, 2025–2026
+    <ul>
+      <li>Módulos destacados: Java, Spring Boot, React, Bases de Datos</li>
+      <li>Proyectos: JeredAirlines, Sistema de Gestión de Inventario, CanAccesible</li>
+    </ul>
+  </li>
+  <li><strong>Certificación Inglés B1</strong> — Escuela Oficial de Idiomas (EOI)</li>
+</ul>
+
+<hr>
+
+<h2>📬 Contacto</h2>
+<p>
+  📧 jonathanmorerapaza@gmail.com<br>
+  🔗 <a href="https://www.linkedin.com/in/jonathan-morera-apaza-856238315/">LinkedIn</a><br>
+  🔗 <a href="https://github.com/tuusuario">GitHub</a><br>
+  📍 Las Palmas de Gran Canaria, España<br>
+  🕒 Disponible para prácticas o primer empleo, jornada completa / híbrida / remota
+</p>
+
+<p align="center"><i>Última actualización: 2026</i></p>
