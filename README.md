@@ -95,47 +95,30 @@
 <h2>📦 Proyectos Destacados</h2>
 <ul>
   <li>
-    <b>JeredAirlines</b> — Simulador de reserva de vuelos<br>
+    <b>JeredAirlines</b> — Plataforma de simulación de reserva de vuelos.<br>
     <i>React · TypeScript · TailwindCSS</i>
     <ul>
-      <li><strong>Rol:</strong> Frontend & Backend</li>
-      <li><strong>Contexto:</strong> Proyecto académico para simular reserva de vuelos.</li>
-      <li><strong>Objetivo y alcance:</strong> Gestión de usuarios y reservas; no incluye pagos reales.</li>
-      <li><strong>Arquitectura:</strong> SPA con backend RESTful</li>
-      <li><strong>Funcionalidades clave:</strong> Registro/login, búsqueda de vuelos, reserva y cancelación</li>
-      <li><strong>Contribución:</strong> Desarrollo frontend, integración con backend, pruebas básicas</li>
-      <li><strong>Evidencias:</strong> <a href="https://entrega-2-react--jeredairlines.web.app/inicio">Demo</a></li>
-      <li><strong>Aprendizaje:</strong> Mejora de React + TypeScript y gestión de estado con Zustand</li>
+      <li>Frontend y Backend, gestión de usuarios y reservas.</li>
+      <li><a href="https://entrega-2-react--jeredairlines.web.app/inicio">Demo</a></li>
     </ul>
   </li>
   <br>
   <li>
-    <b>Sistema de Gestión de Inventario</b> — Demo Full Stack<br>
+    <b>Sistema de Gestión de Inventario</b> — Gestión de productos, stock y usuarios.<br>
     <i>React · Java · Spring Boot</i>
     <ul>
-      <li><strong>Rol:</strong> Full Stack</li>
-      <li><strong>Contexto:</strong> Proyecto académico para gestionar inventario y stock de productos.</li>
-      <li><strong>Objetivo y alcance:</strong> CRUD completo de productos, usuarios y almacenes</li>
-      <li><strong>Arquitectura:</strong> Frontend React + Backend Spring Boot con API REST</li>
-      <li><strong>Funcionalidades clave:</strong> Gestión de inventario, búsqueda y filtrado de productos</li>
-      <li><strong>Contribución:</strong> Desarrollo backend y pruebas unitarias básicas</li>
-      <li><strong>Evidencias:</strong> <a href="https://demo-react-6pld-75w8amc4n-jonathanelrusos-projects.vercel.app/home">Demo</a></li>
-      <li><strong>Aprendizaje:</strong> Mejora en Spring Boot, integración con frontend y control de versiones</li>
+      <li>Full Stack; CRUD completo de inventario.</li>
+      <li>Proyecto realizado durante prácticas en <strong>The Wise Dreams</strong> (1 mes).</li>
+      <li><a href="https://demo-react-6pld-75w8amc4n-jonathanelrusos-projects.vercel.app/home">Demo</a></li>
     </ul>
   </li>
   <br>
   <li>
-    <b>CanAccesible</b> — Plataforma web de accesibilidad<br>
+    <b>CanAccesible</b> — Plataforma web para localizar espacios y servicios accesibles.<br>
     <i>React · Node.js · Express · MySQL</i>
     <ul>
-      <li><strong>Rol:</strong> Frontend & Backend</li>
-      <li><strong>Contexto:</strong> Plataforma para localizar espacios y servicios accesibles</li>
-      <li><strong>Objetivo y alcance:</strong> Facilitar localización de servicios accesibles; no incluye pagos</li>
-      <li><strong>Arquitectura:</strong> SPA con backend RESTful</li>
-      <li><strong>Funcionalidades clave:</strong> Búsqueda de servicios, filtrado, mapa interactivo</li>
-      <li><strong>Contribución:</strong> Desarrollo frontend y backend, integración con base de datos</li>
-      <li><strong>Evidencias:</strong> <a href="https://canaccesible.es/">canaccesible.es</a></li>
-      <li><strong>Aprendizaje:</strong> Mejora de React y Node.js, buenas prácticas en accesibilidad, trabajo en equipo</li>
+      <li>Frontend y Backend, búsqueda y filtrado de servicios accesibles.</li>
+      <li><a href="https://canaccesible.es/">canaccesible.es</a></li>
     </ul>
   </li>
 </ul>
@@ -148,6 +131,7 @@
     <ul>
       <li>Módulos destacados: Java, Spring Boot, React, Bases de Datos</li>
       <li>Proyectos: JeredAirlines, Sistema de Gestión de Inventario, CanAccesible</li>
+      <li>Prácticas: 1 mes en <strong>The Wise Dreams</strong>, trabajando en demo Full Stack</li>
     </ul>
   </li>
   <li><strong>Certificación Inglés B1</strong> — Escuela Oficial de Idiomas (EOI)</li>
