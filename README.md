@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
-  <img src="https://img.shields.io/badge/Bruno-2E2E2E?style=for-the-badge&logoColor=white" alt="Bruno API">
+  <img src="https://img.shields.io/badge/Bruno-2E2E2E?style=for-the-badge&logo=bruno" alt="Bruno API">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </div>
 
@@ -62,7 +62,7 @@
   <div class="mt-6 text-center">
     <h2 class="text-2xl font-semibold mb-2">📬 Contacto</h2>
     <p>📧 jonathanmorerapaza@gmail.com</p>
-    <p>LinkedIn: <a href="https://www.linkedin.com/in/jonathan-morera-apaza-856238315/" class="text-blue-400 underline">Perfil LinkedIn</a></p>
+    <p>Linkedin: <a href="https://www.linkedin.com/in/jonathan-morera-apaza-856238315/" class="text-blue-400 underline">Perfil Linkedin</a></p>
   </div>
 
   <p class="text-center mt-6 text-gray-400">Última actualización: 2026</p>
