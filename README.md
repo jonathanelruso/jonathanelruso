@@ -13,11 +13,10 @@
 </p>
 
 <p align="center">
-  <a href="#contacto" style="padding: 10px 20px; background-color:#4CAF50; color:white; text-decoration:none; border-radius:5px;">Contactar</a>
   <a href="JonathanMoreraCV.pdf" style="padding: 10px 20px; background-color:#2196F3; color:white; text-decoration:none; border-radius:5px;">Descargar CV</a>
 </p>
 
-<hr>
+<hr style="border:0; height:1px; background-color:#ccc; margin:30px 0;">
 
 <h2>🚀 Perfil Profesional</h2>
 <p>
@@ -25,11 +24,10 @@
   y colaborativos. Desarrollo aplicaciones web completas utilizando Java y Spring Boot en backend y React en frontend.
   Enfocado en buenas prácticas, testing básico y control de versiones.
 </p>
-
 <ul>
-  <li><strong>Valores profesionales:</strong> Trabajo en equipo (demostrado en CanAccesible), resolución de problemas, aprendizaje continuo.</li>
-  <li><strong>Idiomas:</strong> Español (nativo), Inglés B1 (certificado EOI).</li>
-  <li><strong>Debilidades en mejora:</strong> Paciencia y coordinación en equipos grandes; trabajando para mejorar.</li>
+  <li><strong>Valores profesionales:</strong> Trabajo en equipo, resolución de problemas, aprendizaje continuo</li>
+  <li><strong>Idiomas:</strong> Español (nativo), Inglés B1 (certificado EOI)</li>
+  <li><strong>Debilidades en mejora:</strong> Paciencia y coordinación en equipos grandes</li>
 </ul>
 
 <h2>🎯 Objetivo Profesional</h2>
@@ -38,36 +36,44 @@
   para adquirir experiencia real y seguir creciendo profesionalmente.
 </p>
 
-<hr>
+<hr style="border:0; height:1px; background-color:#ccc; margin:30px 0;">
 
 <h2>🛠️ Habilidades Técnicas</h2>
 
-<h3>🧠 Backend</h3>
-<ul>
-  <li>Java + Spring Boot — Intermedio (proyectos académicos: Sistema de Gestión de Inventario)</li>
-  <li>Node.js + Express — Intermedio (CanAccesible)</li>
-  <li>Sequelize ORM — Intermedio (CanAccesible)</li>
-  <li>Python básico — Aprendizaje académico</li>
-</ul>
+<h3>Backend</h3>
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
+</p>
 
-<h3>🎨 Frontend</h3>
-<ul>
-  <li>HTML5, CSS3, JavaScript — Intermedio</li>
-  <li>React + librerías (Leaflet, Motion, Axios, Material UI, I18n) — Proyectos académicos</li>
-  <li>TailwindCSS — JeredAirlines, Sistema de Gestión de Inventario</li>
-</ul>
+<h3>Frontend</h3>
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white">
+</p>
 
-<h3>🗄️ Bases de Datos</h3>
-<ul>
-  <li>Oracle, MySQL, PostgreSQL — Intermedio</li>
-  <li>SQL — Consultas, joins y CRUD en proyectos académicos</li>
-</ul>
+<h3>Bases de Datos</h3>
+<p>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+</p>
 
-<h3>⚙️ Herramientas y DevOps</h3>
-<ul>
-  <li>Git/GitHub, Docker, SonarQube, Postman — Uso en proyectos colaborativos</li>
-  <li>Testing: Vitest, Jest — pruebas unitarias básicas</li>
-</ul>
+<h3>Herramientas y DevOps</h3>
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+</p>
 
 <h3>💡 Soft Skills</h3>
 <ul>
@@ -84,10 +90,9 @@
   <li>Inglés B2 — Objetivo diciembre 2026</li>
 </ul>
 
-<hr>
+<hr style="border:0; height:1px; background-color:#ccc; margin:30px 0;">
 
 <h2>📦 Proyectos Destacados</h2>
-
 <ul>
   <li>
     <b>JeredAirlines</b> — Simulador de reserva de vuelos<br>
@@ -96,8 +101,8 @@
       <li><strong>Rol:</strong> Frontend & Backend</li>
       <li><strong>Contexto:</strong> Proyecto académico para simular reserva de vuelos.</li>
       <li><strong>Objetivo y alcance:</strong> Gestión de usuarios y reservas; no incluye pagos reales.</li>
-      <li><strong>Arquitectura:</strong> SPA con integración con backend RESTful</li>
-      <li><strong>Funcionalidades clave:</strong> Registro/login, búsqueda de vuelos, reserva y cancelación.</li>
+      <li><strong>Arquitectura:</strong> SPA con backend RESTful</li>
+      <li><strong>Funcionalidades clave:</strong> Registro/login, búsqueda de vuelos, reserva y cancelación</li>
       <li><strong>Contribución:</strong> Desarrollo frontend, integración con backend, pruebas básicas</li>
       <li><strong>Evidencias:</strong> <a href="https://entrega-2-react--jeredairlines.web.app/inicio">Demo</a></li>
       <li><strong>Aprendizaje:</strong> Mejora de React + TypeScript y gestión de estado con Zustand</li>
@@ -110,9 +115,9 @@
     <ul>
       <li><strong>Rol:</strong> Full Stack</li>
       <li><strong>Contexto:</strong> Proyecto académico para gestionar inventario y stock de productos.</li>
-      <li><strong>Objetivo y alcance:</strong> CRUD completo de productos, usuarios y almacenes.</li>
+      <li><strong>Objetivo y alcance:</strong> CRUD completo de productos, usuarios y almacenes</li>
       <li><strong>Arquitectura:</strong> Frontend React + Backend Spring Boot con API REST</li>
-      <li><strong>Funcionalidades clave:</strong> Gestión de inventario, búsqueda y filtrado de productos.</li>
+      <li><strong>Funcionalidades clave:</strong> Gestión de inventario, búsqueda y filtrado de productos</li>
       <li><strong>Contribución:</strong> Desarrollo backend y pruebas unitarias básicas</li>
       <li><strong>Evidencias:</strong> <a href="https://demo-react-6pld-75w8amc4n-jonathanelrusos-projects.vercel.app/home">Demo</a></li>
       <li><strong>Aprendizaje:</strong> Mejora en Spring Boot, integración con frontend y control de versiones</li>
@@ -124,8 +129,8 @@
     <i>React · Node.js · Express · MySQL</i>
     <ul>
       <li><strong>Rol:</strong> Frontend & Backend</li>
-      <li><strong>Contexto:</strong> Plataforma para localizar espacios y servicios accesibles.</li>
-      <li><strong>Objetivo y alcance:</strong> Facilitar localización de servicios accesibles; no incluye pagos.</li>
+      <li><strong>Contexto:</strong> Plataforma para localizar espacios y servicios accesibles</li>
+      <li><strong>Objetivo y alcance:</strong> Facilitar localización de servicios accesibles; no incluye pagos</li>
       <li><strong>Arquitectura:</strong> SPA con backend RESTful</li>
       <li><strong>Funcionalidades clave:</strong> Búsqueda de servicios, filtrado, mapa interactivo</li>
       <li><strong>Contribución:</strong> Desarrollo frontend y backend, integración con base de datos</li>
@@ -135,7 +140,7 @@
   </li>
 </ul>
 
-<hr>
+<hr style="border:0; height:1px; background-color:#ccc; margin:30px 0;">
 
 <h2>🎓 Formación y Certificaciones</h2>
 <ul>
@@ -148,7 +153,7 @@
   <li><strong>Certificación Inglés B1</strong> — Escuela Oficial de Idiomas (EOI)</li>
 </ul>
 
-<hr>
+<hr style="border:0; height:1px; background-color:#ccc; margin:30px 0;">
 
 <h2>📬 Contacto</h2>
 <p>
