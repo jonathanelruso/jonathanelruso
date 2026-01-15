@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="JonathanMoreraCV.pdf" style="padding: 10px 20px; background-color:#2196F3; color:white; text-decoration:none; border-radius:5px;">Descargar CV</a>
+  <a href="cv_JonathanMoreraApaza_2DAWT.pdf" style="padding: 10px 20px; background-color:#2196F3; color:white; text-decoration:none; border-radius:5px;">Descargar CV</a>
 </p>
 
 <hr style="border:0; height:1px; background-color:#ccc; margin:30px 0;">
