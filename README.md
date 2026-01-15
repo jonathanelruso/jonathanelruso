@@ -150,7 +150,7 @@
 
 <h2>📬 Contacto</h2>
 <p>
-  📧 <a href="mailto:jonathanmorerapaza@gmail.com">jonathanmorerapaza@gmail.com</a><br>
+  📧 jonathanmorerapaza@gmail.com<br>
   🔗 <a href="https://www.linkedin.com/in/jonathan-morera-apaza-856238315/">LinkedIn</a><br>
   📍 Las Palmas de Gran Canaria, España<br>
   🕒 Disponible para prácticas o primer empleo, jornada completa / híbrida / remota
