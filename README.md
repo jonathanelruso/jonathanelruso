@@ -152,7 +152,6 @@
 <p>
   📧 jonathanmorerapaza@gmail.com<br>
   🔗 <a href="https://www.linkedin.com/in/jonathan-morera-apaza-856238315/">LinkedIn</a><br>
-  🔗 <a href="https://github.com/tuusuario">GitHub</a><br>
   📍 Las Palmas de Gran Canaria, España<br>
   🕒 Disponible para prácticas o primer empleo, jornada completa / híbrida / remota
 </p>
