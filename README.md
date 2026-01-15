@@ -99,7 +99,7 @@
     <i>React · TypeScript · TailwindCSS</i>
     <ul>
       <li>Frontend y Backend, gestión de usuarios y reservas.</li>
-      <li><a href="https://entrega-2-react--jeredairlines.web.app/inicio">Demo</a></li>
+      <li><a href="https://entrega-2-react--jeredairlines.web.app/inicio">JeredAirlines</a></li>
     </ul>
   </li>
   <br>
@@ -109,7 +109,7 @@
     <ul>
       <li>Full Stack; CRUD completo de inventario.</li>
       <li>Proyecto realizado durante prácticas en <strong>The Wise Dreams</strong> (1 mes).</li>
-      <li><a href="https://demo-react-6pld-75w8amc4n-jonathanelrusos-projects.vercel.app/home">Demo</a></li>
+      <li><a href="https://demo-react-6pld-75w8amc4n-jonathanelrusos-projects.vercel.app/home">Demo Full Stack</a></li>
     </ul>
   </li>
   <br>
@@ -131,7 +131,7 @@
     <ul>
       <li>Módulos destacados: Java, Spring Boot, React, Bases de Datos</li>
       <li>Proyectos: JeredAirlines, Sistema de Gestión de Inventario, CanAccesible</li>
-      <li>Prácticas: 1 mes en <strong>The Wise Dreams</strong>, trabajando en demo Full Stack</li>
+      <li>Prácticas: 1 mes en <strong>The Wise Dreams</strong>, trabajando en el proyecto demo Full Stack</li>
     </ul>
   </li>
   <li><strong>Certificación Inglés B1</strong> — Escuela Oficial de Idiomas (EOI)</li>
