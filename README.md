@@ -94,9 +94,9 @@
 
 <h3>🚀 Plan de Mejora</h3>
 <ul>
-  <li>Testing avanzado — Objetivo: Proyecto final DAW, junio 2026</li>
-  <li>Optimización backend con Spring Boot y patrones de diseño — Julio 2026</li>
-  <li>Inglés B2 — Objetivo diciembre 2026</li>
+  <li>Testing avanzado — Reforzar mis conocimientos de testing</li>
+  <li>Optimización backend con Spring Boot y patrones de diseño (arquitectura hexagonal)</li>
+  <li>Inglés B2 — Mejorar mis conocimientos de inglés para conseguir el B"</li>
 </ul>
 
 <hr style="border:0; height:1px; background-color:#ccc; margin:30px 0;">
